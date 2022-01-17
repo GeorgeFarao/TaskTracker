@@ -1,5 +1,5 @@
-# Task Manager Application
-Task Manager Web App using Angular
+# Task Tracker Application
+Task Tracker Web App using Angular
 
 ### Description
 Using this app you can create a list of tasks, each one having a description, day & time and a reminder. Users can add and delete tasks and turn their reminder on and off by double clicking on a task in the list.
